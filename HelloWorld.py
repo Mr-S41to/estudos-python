@@ -1,1 +1,2 @@
-print("Olá mundo!")
+print('Olá mundo')
+sizeWorld = 10
